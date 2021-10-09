@@ -1,0 +1,2 @@
+Creado el proyecto 
+Se ha Creado la pagina principal indexs.jsp
